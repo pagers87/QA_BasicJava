@@ -1,3 +1,5 @@
 # Default ignored files
+/.idea/
+QA_BasicJava.iml
 /shelf/
 /workspace.xml

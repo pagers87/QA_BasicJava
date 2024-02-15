@@ -4,5 +4,14 @@ public class Hello {
         // tutaj wypisujemy text
         System.out.println("Hello World");
         System.out.println("Second text");
+        System.out.print("1234567890");
+
+
+
+
+
+
+
+
     }
 }
