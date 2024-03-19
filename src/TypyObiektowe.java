@@ -15,7 +15,7 @@ public class TypyObiektowe {
         char letter = 'A';
 
         String hello = "Hello Peter";
-        //wskazuję index 0 czyli która litera się pojawi - w tej systuacji będzie to H
+        //wskazuję index 0 czyli która litera się pojawi - w tej systuacji będzie to hH
         System.out.println(hello.charAt(0));
 
     }
